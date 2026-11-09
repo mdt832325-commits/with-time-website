@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdt832325-commits.github.io/with-time-website/sitemap.xml
